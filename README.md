@@ -31,13 +31,6 @@ This Power BI dashboard provides an in-depth analysis of booking trends, revenue
 - **At the bt.**: 23.93%
 - **Volume.com**: 38.77%
 
-## Usage
-
-1. **Clone the repository** to your local machine.
-2. Open the Power BI file (`LuxuryHotelAnalytics.pbix`) using Power BI Desktop.
-3. Connect to your data source if necessary.
-4. Explore the different tabs and visualizations to analyze booking trends and channel performance.
-
 ## Visualizations
 
 - **Total Revenue**: Displays the overall revenue generated.
